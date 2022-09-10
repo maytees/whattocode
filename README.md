@@ -12,7 +12,7 @@ cargo build --release
 
 sudo cp ./target/release/whattocode /usr/bin/whattocode
 ```
-### "Todo"
+### "Todo" -
 
 - [ ] A way to favorite ideas
   - [ ] this would be done by appending to a file, in most cases, the note taking file
