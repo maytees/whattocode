@@ -1,7 +1,7 @@
 # whattocode
 Simple cli applicatoin that uses the what-to-code api
 
-How to install - 
+**How to install -**
 
 ```bash
 git clone https://github.com/maytees/whattocode.git
